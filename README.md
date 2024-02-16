@@ -35,7 +35,7 @@ To run NFTify locally, follow these steps:
 
 4. **Run the Server:**
     ```bash
-    npm start
+    npm run start
     ```
 
 5. **Open the Web Application:**

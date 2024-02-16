@@ -44,8 +44,33 @@ To run NFTify locally, follow these steps:
 6. **Explore NFTify:**
     - Create an account or log in if you already have one.
     - Manage your NFTs, edit details, and experience the features firsthand.
+## Tech Stack
+
+**NFTify** is built using the following technologies:
+
+### Frontend:
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend:
+- Node.js
+- Express.js
+- MongoDB
+
+### Additional Tools:
+- Git
+- npm (Node Package Manager)
 
 ## Contributing
 
-If you have a feature request, or want to contribute code, please open an issue or submit a pull request.
+If you have a feature request or want to contribute code, please open an issue or submit a pull request. Your contributions are welcome!
+
+## Screenshots
+
+*Include captivating images showcasing different aspects of your project here.*
+
+![NFTify Dashboard](path-to-image1.png)
+![NFT Details Page](path-to-image2.png)
+
 

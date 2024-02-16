@@ -18,7 +18,7 @@ To run NFTify locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/NFTify.git
+    git clone https://github.com/visorry/NFTify.git
     cd NFTify
     ```
 

@@ -69,8 +69,8 @@ If you have a feature request or want to contribute code, please open an issue o
 ## Screenshots
 
 *Include captivating images showcasing different aspects of your project here.*
-
-![NFTify Dashboard](path-to-image1.png)
-![NFT Details Page](path-to-image2.png)
+![Screenshot 2024-02-16 212338](https://github.com/visorry/NFTify/assets/121347308/45ebc752-6eeb-49b4-a8a9-9577700f78d7)
+![Screenshot 2024-02-16 212324](https://github.com/visorry/NFTify/assets/121347308/0b726f3e-f94c-48db-9100-8d86ffd721e3)
+![Screenshot 2024-02-16 213736](https://github.com/visorry/NFTify/assets/121347308/0217ee02-9a35-4dfb-86cd-59477d782d58)
 
 
